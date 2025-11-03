@@ -30,7 +30,7 @@ These non-technical skills are critical for successful team collaboration and pr
 
 * **Problem-Solving:** Decades of operational management, diagnosing and resolving complex issues under pressure.
 * **Project Management:** Proven ability to manage complex, multi-faceted projects (e.g., bar program implementation, logistics, inventory control).
-* **Communication:** Fluent in **Spanish** and adept at clear, effective **interpersonal communication**—essential for collaborative development teams.
+* **Communication:** Partially Fluent in **Spanish** and adept at clear, effective **interpersonal communication**—essential for collaborative development teams.
 * **Technical Analysis:** Experienced in breaking down systems and data (financials, COGS) to find efficiencies.
 
 ***
