@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ricky C.
+## Hi there 👋, I'm Rich.
 
 <p align="center">
     <a href="https://github.com/SensiCode99">
