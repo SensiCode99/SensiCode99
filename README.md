@@ -1,12 +1,25 @@
 ## Hi there 👋, I'm Rich.
 
 <p align="center">
-    <a href="https://github.com/SensiCode99">
-        <img alt="GitHub Followers" src="https://img.shields.io/github/followers/SensiCode99?style=social">
+    <a href="https://www.instagram.com/rickyceglarski/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://discord.gg/2JpehMrXNt">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://open.spotify.com/user/your-profile-id">
+        <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
     </a>
 </p>
 
 ### 🚀 Aspiring FiveM Developer & Automation Specialist
+
+<p align="center">
+    <a href="https://github.com/SensiCode99">
+        <img alt="GitHub Followers" src="https://img.shields.io/github/followers/SensiCode99?style=social">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=SensiCode99&color=blueviolet&style=flat-square" alt="Profile Views Counter" />
+</p>
 
 I am a driven professional pivoting into full-time software development, specializing in **FiveM/Lua server resource creation and optimization**. My background in high-level management has equipped me with exceptional **problem-solving**, **project management**, and **interpersonal communication** skills, which I now apply to code.
 
