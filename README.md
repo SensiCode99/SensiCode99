@@ -10,7 +10,7 @@
 
 I am a driven professional pivoting into full-time software development, specializing in **FiveM/Lua server resource creation and optimization**. My background in high-level management has equipped me with exceptional **problem-solving**, **project management**, and **interpersonal communication** skills, which I now apply to code.
 
-I excel at quickly dissecting existing codebases, implementing crucial resource adjustments, and optimizing server vectors. My focus is on writing clean, functional Lua scripts that enhance user experience and server performance.
+I excel at quickly dissecting existing codebases, implementing crucial resource adjustments, and optimizing the art of server vectors. My focus is on writing clean, functional Lua scripts that enhance user experience and server performance.
 
 ***
 
