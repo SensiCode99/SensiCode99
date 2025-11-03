@@ -7,7 +7,7 @@
     <a href="https://discord.gg/2JpehMrXNt">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
-    <a href="https://open.spotify.com/user/your-profile-id">
+    <a href="https://open.spotify.com/user/31hdxe4dlcbfbresjjpp6twbhkay?si=INx5Zp1QTGKk9CSp2vc0LA">
         <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
     </a>
 </p>
