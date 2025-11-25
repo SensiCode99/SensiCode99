@@ -12,7 +12,7 @@
     </a>
 </p>
 
-### 🚀 Aspiring FiveM Developer & Automation Specialist
+### 🚀 Aspiring Developer & Automation Specialist
 
 <p align="center">
     <a href="https://github.com/SensiCode99">
@@ -21,7 +21,7 @@
     <img src="https://komarev.com/ghpvc/?username=SensiCode99&color=blueviolet&style=flat-square" alt="Profile Views Counter" />
 </p>
 
-I am a driven professional pivoting into full-time software development, specializing in **FiveM/Lua server resource creation and optimization**. My background in high-level management has equipped me with exceptional **problem-solving**, **project management**, and **interpersonal communication** skills, which I now apply to code.
+I am a driven professional pivoting into full-time software development, specializing in **Python/Lua server resource creation and optimization**. My background in high-level management has equipped me with exceptional **problem-solving**, **project management**, and **interpersonal communication** skills, which I now apply to code.
 
 I excel at quickly dissecting existing codebases, implementing crucial resource adjustments, and optimizing the art of server vectors. My focus is on writing clean, functional Lua scripts that enhance user experience and server performance.
 
@@ -31,8 +31,8 @@ I excel at quickly dissecting existing codebases, implementing crucial resource 
 
 | Category | Skills | Focus/Specialty |
 | :--- | :--- | :--- |
-| **FiveM Development** | `Lua` • `HTML` • `CSS` • `Git` | Server-side logic, resource adjustment, vector/coordinate manipulation, and UI integration. |
-| **Languages** | `Lua` • `HTML` • `JavaScript (Basic)` | Strong proficiency in **Lua** scripting for FiveM resources. |
+| **Development** | `Lua` • `HTML` • `CSS` • `Git` | Server-side logic, resource adjustment, vector/coordinate manipulation, and UI integration. |
+| **Languages** | `Lua` • `HTML` • `JavaScript (Basic)` | Strong proficiency in **Lua** scripting for resources. |
 | **Foundational Tech** | `Web Design` • `Graphics` • `Design` | UI/UX concepts, basic web integration for UIs (NUI). |
 
 ***
@@ -53,8 +53,8 @@ These non-technical skills are critical for successful team collaboration and pr
 | Section | Content |
 | :--- | :--- |
 | 🔭 **I'm currently working on** | Refining my **Lua scripting efficiency** and learning to implement basic **ESX/QBCore framework integration** for core resources. |
-| 🌱 **I’m currently learning** | **MySQL/Database integration** for persistent FiveM data and advanced **JavaScript** to build custom NUI UIs. |
-| 💬 **Ask me about** | Lua logic, debugging FiveM resource conflicts, or best practices for server resource structure. |
+| 🌱 **I’m currently learning** | **MySQL/Database integration** for persistent data and advanced **JavaScript** to build custom NUI UIs. |
+| 💬 **Ask me about** | Lua logic, debugging resource conflicts, or best practices for server resource structure. |
 | ⚡ **Fun Fact** | I've managed wine programs that have won multiple Wine Spectator awards, traveling to Chile and Argentina for company business! |
 
 ***
