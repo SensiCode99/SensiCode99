@@ -1,12 +1,9 @@
-## Hi there 👋, I'm Rich.
+## Richard Ceglarski
 
-<p align="center">
-    <a href="https://discord.gg/2JpehMrXNt">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-</p>
+**Lua Developer • Server Resource Engineer • Systems & Automation Enthusiast**
 
-### 🚀 Aspiring Developer & Automation Specialist
+I build clean, reliable Lua scripts and server-side resources with a focus on performance, stability, and user experience.  
+My background in operations and workflow management gives me a strong foundation in problem‑solving, structure, and efficiency — all of which I bring directly into my development work.
 
 <p align="center">
     <a href="https://github.com/SensiCode99">
@@ -15,60 +12,61 @@
     <img src="https://komarev.com/ghpvc/?username=SensiCode99&color=blueviolet&style=flat-square" alt="Profile Views Counter" />
 </p>
 
-I am a driven professional pivoting into full-time software development, specializing in **Python/Lua server resource creation and optimization**. My background in high-level management has equipped me with exceptional **problem-solving**, **project management**, and **interpersonal communication** skills, which I now apply to code.
+---
 
-I excel at quickly dissecting existing codebases, implementing crucial resource adjustments, and optimizing the art of server vectors. My focus is on writing clean, functional Lua scripts that enhance user experience and server performance.
+### 🔧 Technical Skills
 
-***
-
-### 💻 Development Focus & Skills
-
-| Category | Skills | Focus/Specialty |
+| Category | Skills | Focus |
 | :--- | :--- | :--- |
-| **Development** | `Lua` • `HTML` • `CSS` • `Git` | Server-side logic, resource adjustment, vector/coordinate manipulation, and UI integration. |
-| **Languages** | `Lua` • `HTML` • `JavaScript (Basic)` | Strong proficiency in **Lua** scripting for resources. |
-| **Foundational Tech** | `Web Design` • `Graphics` • `Design` | UI/UX concepts, basic web integration for UIs (NUI). |
+| **Development** | `Lua` • `HTML` • `CSS` • `Git` | Server-side logic, resource optimization, coordinate/vector systems, UI integration (NUI) |
+| **Languages** | `Lua` • `HTML` • `JavaScript (Basic)` | Clean, modular scripting for game/server resources |
+| **Tools** | VS Code • GitHub • Fivem/NUI | Debugging, resource structure, performance tuning |
 
-***
+---
 
-### 🧠 Core Strengths for Development
+### 🧠 Core Strengths
 
-These non-technical skills are critical for successful team collaboration and project delivery:
+- **Problem-Solving:** Strong analytical mindset; able to break down systems and resolve conflicts quickly.  
+- **System Structure:** Experience organizing complex resource folders, dependencies, and workflows.  
+- **Communication:** Clear, direct communicator; effective collaborator in technical and non‑technical environments.  
+- **Technical Analysis:** Skilled at identifying inefficiencies and improving performance through structured logic.
 
-* **Problem-Solving:** Decades of operational management, diagnosing and resolving complex issues under pressure.
-* **Project Management:** Proven ability to manage complex, multi-faceted projects (e.g., bar program implementation, logistics, inventory control).
-* **Communication:** Partially Fluent in **Spanish** and adept at clear, effective **interpersonal communication**—essential for collaborative development teams.
-* **Technical Analysis:** Experienced in breaking down systems and data (financials, COGS) to find efficiencies.
+---
 
-***
+### 🚀 Current Focus
 
-### 💡 What I'm Working On
-
-| Section | Content |
+| Area | Details |
 | :--- | :--- |
-| 🔭 **I'm currently working on** | Refining my **Lua scripting efficiency** and learning to implement basic **ESX/QBCore framework integration** for core resources. |
-| 🌱 **I’m currently learning** | **MySQL/Database integration** for persistent data and advanced **JavaScript** to build custom NUI UIs. |
-| 💬 **Ask me about** | Lua logic, debugging resource conflicts, or best practices for server resource structure. |
-| ⚡ **Fun Fact** | I've managed wine programs that have won multiple Wine Spectator awards, traveling to Chile and Argentina for company business! |
+| 🔭 **Building** | More efficient Lua resources and improved server-side logic |
+| 🌱 **Learning** | MySQL for persistent data + deeper JavaScript for NUI interfaces |
+| 🛠️ **Improving** | Resource structure, debugging workflows, and optimization techniques |
+| 💬 **Ask me about** | Lua logic, resource conflicts, file structure, or server optimization |
 
-***
+---
 
-### 📫 Let's Connect
+### 📌 Highlighted Work
+
+- **rc_washhands** — Immersive hand‑washing interaction with InteractSound support  
+- **rc_devcoords** — Developer tool for real‑time coordinate and heading tracking  
+- More projects available in pinned repositories
+
+---
+
+### 📫 Contact
 
 | Platform | Link |
 | :---: | :---: |
-| **Email** | [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sensicode99@gmail.com) |
-| **GitHub** | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SensiCode99) |
-| **Portfolio** | Coming Soon! |
+| **Email** | [sensicode99@gmail.com](mailto:sensicode99@gmail.com) |
+| **GitHub** | [github.com/SensiCode99](https://github.com/SensiCode99) |
+| **Portfolio** | Coming Soon |
 
+---
 
-***
-
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SensiCode99&show_icons=true&theme=buefy&hide_border=true" alt="Ricky's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SensiCode99&theme=buefy&hide_border=true" alt="Ricky's GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SensiCode99&show_icons=true&theme=buefy&hide_border=true" alt="Richard's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SensiCode99&theme=buefy&hide_border=true" alt="Richard's GitHub Streak" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SensiCode99&layout=compact&langs_count=6&theme=buefy&hide_border=true" alt="Ricky's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SensiCode99&layout=compact&langs_count=6&theme=buefy&hide_border=true" alt="Richard's Top Languages" />
 </div>
